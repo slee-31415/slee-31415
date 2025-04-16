@@ -13,7 +13,7 @@ My research uses text analysis, network analysis, latent variable modeling, and 
 R (tidyverse, quanteda, keyatm, stm, befa, bergm) | Python (pandas, sklearn)
 Bayesian modelling (JAGS, Stan) | LLM (embedding & cosine similarity)
 
-## Current position
+### Current position
 Visiting Assistant Professor, Department of Political Scince
 Northwestern 
 
